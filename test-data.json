@@ -1,0 +1,59 @@
+{
+  "session": {
+    "ownerId": "MyWeChatID_123",
+    "wxid": "SisterID_456",
+    "remark": "小美"
+  },
+  "messages": [
+    {
+      "isSend": 1,
+      "createTime": 1711382400,
+      "content": "小美，最近那个《机械原理》的课好难啊，你们以前是怎么过的？"
+    },
+    {
+      "isSend": 0,
+      "createTime": 1711386000,
+      "content": "多刷题就行。"
+    },
+    {
+      "isSend": 1,
+      "createTime": 1711468800,
+      "content": "看你朋友圈去海边了？最近天气确实不错。"
+    },
+    {
+      "isSend": 0,
+      "createTime": 1711472400,
+      "content": "嗯，人挺多的。"
+    },
+    {
+      "isSend": 1,
+      "createTime": 1711555200,
+      "content": "这周末有空吗？请你吃个饭，顺便把上次借你的书还了。"
+    },
+    {
+      "isSend": 0,
+      "createTime": 1711558800,
+      "content": "这周有事，下次吧。"
+    },
+    {
+      "isSend": 0,
+      "createTime": 1711641600,
+      "content": "对了，你会修图吗？帮我把这张照片调个色呗？[图片]"
+    },
+    {
+      "isSend": 1,
+      "createTime": 1711642000,
+      "content": "没问题，发我吧，我用 Lightroom 帮你拉一下。"
+    },
+    {
+      "isSend": 1,
+      "createTime": 1711728000,
+      "content": "图修好了，发你微信了，你看行不行。"
+    },
+    {
+      "isSend": 0,
+      "createTime": 1711735200,
+      "content": "挺好的，谢了。"
+    }
+  ]
+}
